@@ -1,3 +1,3 @@
 build-job:
   script:
-    - echo "Building things in $CI_PROJECT_PATH project..."
+    - echo "Building things in gitlab-second project..."
